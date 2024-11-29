@@ -1,0 +1,17 @@
+Классы
+
+Restaraunt;
+Order;
+Employee;
+Delivery;
+Menu;
+Table;
+Payment;
+Review;
+Reservation;
+Promotion;
+Kitchen;
+Chef;
+Waiter;
+Manager;
+Music;
