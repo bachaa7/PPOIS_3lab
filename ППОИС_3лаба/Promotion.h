@@ -6,7 +6,7 @@
 
 class Promotion {
 private:
-   string promoCode;
+    string promoCode;
     double discountPercentage;
 
 public:
